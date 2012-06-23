@@ -1,4 +1,6 @@
 require "follower/version"
+require 'oauth'
+require 'launchy'
 
 module Follower
 
