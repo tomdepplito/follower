@@ -1,3 +1,6 @@
+# Intro
+This is a Ruby gem which authenticates an application and allows you to follow your friends on Linkedin, Tumblr and Twitter.  It's pretty simple to use but check out the example files in the lib folder.
+
 # Follower
 
 TODO: Write a gem description
